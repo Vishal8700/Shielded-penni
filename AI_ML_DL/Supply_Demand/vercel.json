@@ -1,0 +1,17 @@
+{
+    "version":2,
+    "builds":[{"src":"/app/api.py",
+    "use":"@vercel/python"
+
+    }],"routes": [
+        { "handle": "filesystem" }, 
+        {
+          "src": "/predict",
+          "dest": "app/api.py"
+        },
+        {
+          "src": "/evaluate",
+          "dest": "app/api.py"
+        }
+      ]
+}
