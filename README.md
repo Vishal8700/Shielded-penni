@@ -21,28 +21,6 @@ This repository contains the source code for a blockchain-based payment interfac
 5. **Tracking:** Users can track the status of their transactions and view transaction history.
 6. **Security Measures:** Users are advised to follow security best practices, such as enabling two-factor authentication and keeping private keys secure.
 
-**Installation:**
-1. Clone the repository: `git clone https://github.com/yourusername/blockchain-payment-interface.git`
-2. Install dependencies: `npm install` or `yarn install`
-3. Configure environment variables for blockchain node connection and API endpoints.
-4. Run the application locally or deploy it to a server.
-
-**Contributing:**
-Contributions are welcome! Fork the repository, make improvements, and submit pull requests. Please adhere to the coding standards and guidelines specified in the project.
-
-**License:**
-This project is licensed under the MIT License. You are free to use, modify, and distribute the software as per the terms of the license.
-
-**Acknowledgments:**
-Special thanks to the developers and contributors of blockchain technologies and libraries used in this project.
-
-**Contact:**
-For inquiries or support, please contact [email@example.com](mailto:email@example.com).
-
-**Disclaimer:**
-This project is for educational and informational purposes only. It is not intended for use in production environments without thorough testing and security evaluation. The developers are not liable for any damages or losses resulting from the use of this software.
-
-
 
 # vue-project
 
@@ -104,3 +82,19 @@ npm run test:e2e -- --debug
 ```sh
 npm run lint
 ```
+
+
+**License:**
+This project is licensed under the MIT License. You are free to use, modify, and distribute the software as per the terms of the license.
+
+**Acknowledgments:**
+Special thanks to the developers and contributors of blockchain technologies and libraries used in this project.
+
+**Contact:**
+For inquiries or support, please contact vishalkumar09837@gmail.com
+
+**Disclaimer:**
+This project is for educational and informational purposes only. It is not intended for use in production environments without thorough testing and security evaluation. The developers are not liable for any damages or losses resulting from the use of this software.
+
+
+
