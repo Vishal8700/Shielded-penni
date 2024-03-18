@@ -82,19 +82,15 @@ npm run test:e2e -- --debug
 ```sh
 npm run lint
 ```
+### TEAM NAME - KHUFOYA WATERMELLON
+
+NAME                 	EMAIL
+
+SIMRAN	
+DEVANSHU	
+KESHAV	
+VISHAL	         vishalkumar09837@gmail.com
 
 
-**License:**
-This project is licensed under the MIT License. You are free to use, modify, and distribute the software as per the terms of the license.
-
-**Acknowledgments:**
-Special thanks to the developers and contributors of blockchain technologies and libraries used in this project.
-
-**Contact:**
-For inquiries or support, please contact vishalkumar09837@gmail.com
-
-**Disclaimer:**
-This project is for educational and informational purposes only. It is not intended for use in production environments without thorough testing and security evaluation. The developers are not liable for any damages or losses resulting from the use of this software.
-
-
+![image](https://github.com/Vishal8700/Shielded-penni/assets/97828106/a9fbca55-3fe3-4bb2-aa68-15c8a9c676dd)
 
