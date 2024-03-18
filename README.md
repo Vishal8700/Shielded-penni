@@ -84,13 +84,5 @@ npm run lint
 ```
 ### TEAM NAME - KHUFOYA WATERMELLON
 
-NAME                 	EMAIL
-
-SIMRAN	
-DEVANSHU	
-KESHAV	
-VISHAL	         vishalkumar09837@gmail.com
-
-
 ![image](https://github.com/Vishal8700/Shielded-penni/assets/97828106/a9fbca55-3fe3-4bb2-aa68-15c8a9c676dd)
 
